@@ -1,4 +1,4 @@
-# veneziandrea  
+# veneziaandrea  
 **Automation & Control Engineering | Robotics & Autonomous Systems**
 
 Master’s student in Automation and Control Engineering @ Politecnico di Milano  
